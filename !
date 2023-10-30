@@ -1,0 +1,11 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /home/usuario/practicas/practica-07-iterations-Alvaro-Luis-Gonzalez/Product_of_Digits
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+Makefile
+Product_of_Digits.cc
